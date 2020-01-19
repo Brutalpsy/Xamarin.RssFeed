@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="RedditRss.App">
+    <Application.Resources>
+        <ResourceDictionary>
+            <Color x:Key="darkColor">#00000</Color>
+            <Color x:Key="darkGrayColor">#404ESC</Color>
+            <Style TargetType="Label" x:Key="smallTitleLabel">
+                <Setter Property="FontSize" Value="15"/>
+                <Setter Property="FontAttributes" Value="Bold"/>
+                <Setter Property="TextColor" Value="{StaticResource darkColor}"/>
+            </Style>
+            <Style TargetType="Label" x:Key="normalLabel">
+                <Setter Property="TextColor" Value="{StaticResource darkColor}"/>
+                <Setter Property="FontSize" Value="12"/>
+            </Style>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

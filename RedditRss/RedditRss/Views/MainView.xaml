@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="RedditRss.Views.MainView"
+             xmlns:viewModelBase="clr-namespace:RedditRss.ViewModels.Base"
+             viewModelBase:ViewModelLocator.AutoWireViewModel="True"
+             xmlns:behaviors="clr-namespace:RedditRss.Behavior">
+    <ListView ItemsSource="{Binding Feed.Entries}">
+        <ListView.Behaviors>
+            <behaviors:ListViewBehavior></behaviors:ListViewBehavior>
+        </ListView.Behaviors>
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <ViewCell>
+                    <Frame CornerRadius="10"
+                           Padding="0"
+                           Margin="5">
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="2*"></ColumnDefinition>
+                                <ColumnDefinition Width="7*"></ColumnDefinition>
+                            </Grid.ColumnDefinitions>
+
+                            <Label Text="{Binding Category.Label}"  Grid.Row="0" Grid.Column="0" VerticalOptions="Center"/>
+                            <Label Text="{Binding Title}" VerticalOptions="Center" MaxLines="1" Margin="20,0" Grid.Row="0" Grid.Column="1"/>
+                        </Grid>
+                    </Frame>
+                </ViewCell>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
+</ContentPage>
