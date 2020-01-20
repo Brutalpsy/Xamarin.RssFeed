@@ -4,6 +4,12 @@ public class MonoPackageManager_Resources {
 		/* We need to ensure that "RedditRss.Android.dll" comes first in this list. */
 		"RedditRss.Android.dll",
 		"FormsViewGroup.dll",
+		"Microsoft.AppCenter.Analytics.Android.Bindings.dll",
+		"Microsoft.AppCenter.Analytics.dll",
+		"Microsoft.AppCenter.Android.Bindings.dll",
+		"Microsoft.AppCenter.Crashes.Android.Bindings.dll",
+		"Microsoft.AppCenter.Crashes.dll",
+		"Microsoft.AppCenter.dll",
 		"Microsoft.DotNet.PlatformAbstractions.dll",
 		"Microsoft.Extensions.DependencyModel.dll",
 		"Microsoft.Extensions.PlatformAbstractions.dll",

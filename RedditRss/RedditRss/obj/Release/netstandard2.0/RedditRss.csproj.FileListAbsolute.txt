@@ -2,13 +2,13 @@ C:\Users\psych\Source\Repos\RedditRss\RedditRss\RedditRss\bin\Release\netstandar
 C:\Users\psych\Source\Repos\RedditRss\RedditRss\RedditRss\bin\Release\netstandard2.0\RedditRss.dll
 C:\Users\psych\Source\Repos\RedditRss\RedditRss\RedditRss\bin\Release\netstandard2.0\ref\RedditRss.dll
 C:\Users\psych\Source\Repos\RedditRss\RedditRss\RedditRss\bin\Release\netstandard2.0\RedditRss.pdb
-C:\Users\psych\Source\Repos\RedditRss\RedditRss\RedditRss\obj\Release\netstandard2.0\RedditRss.csprojAssemblyReference.cache
 C:\Users\psych\Source\Repos\RedditRss\RedditRss\RedditRss\obj\Release\netstandard2.0\App.xaml.g.cs
 C:\Users\psych\Source\Repos\RedditRss\RedditRss\RedditRss\obj\Release\netstandard2.0\Views\MainView.xaml.g.cs
 C:\Users\psych\Source\Repos\RedditRss\RedditRss\RedditRss\obj\Release\netstandard2.0\Views\PostView.xaml.g.cs
 C:\Users\psych\Source\Repos\RedditRss\RedditRss\RedditRss\obj\Release\netstandard2.0\RedditRss.AssemblyInfoInputs.cache
 C:\Users\psych\Source\Repos\RedditRss\RedditRss\RedditRss\obj\Release\netstandard2.0\RedditRss.AssemblyInfo.cs
-C:\Users\psych\Source\Repos\RedditRss\RedditRss\RedditRss\obj\Release\netstandard2.0\XamlC.stamp
 C:\Users\psych\Source\Repos\RedditRss\RedditRss\RedditRss\obj\Release\netstandard2.0\RedditRss.dll
 C:\Users\psych\Source\Repos\RedditRss\RedditRss\RedditRss\obj\Release\netstandard2.0\ref\RedditRss.dll
 C:\Users\psych\Source\Repos\RedditRss\RedditRss\RedditRss\obj\Release\netstandard2.0\RedditRss.pdb
+C:\Users\psych\Source\Repos\RedditRss\RedditRss\RedditRss\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\psych\Source\Repos\RedditRss\RedditRss\RedditRss\obj\Release\netstandard2.0\RedditRss.csprojAssemblyReference.cache

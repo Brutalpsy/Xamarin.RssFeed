@@ -1,6 +1,12 @@
 C:\Users\psych\Source\Repos\RedditRss\RedditRss\RedditRss.Android\obj\Release\90\android\assets\RedditRss.Android.dll
 C:\Users\psych\Source\Repos\RedditRss\RedditRss\RedditRss.Android\obj\Release\90\android\assets\FormsViewGroup.dll
 C:\Users\psych\Source\Repos\RedditRss\RedditRss\RedditRss.Android\obj\Release\90\android\assets\Java.Interop.dll
+C:\Users\psych\Source\Repos\RedditRss\RedditRss\RedditRss.Android\obj\Release\90\android\assets\Microsoft.AppCenter.Analytics.Android.Bindings.dll
+C:\Users\psych\Source\Repos\RedditRss\RedditRss\RedditRss.Android\obj\Release\90\android\assets\Microsoft.AppCenter.Analytics.dll
+C:\Users\psych\Source\Repos\RedditRss\RedditRss\RedditRss.Android\obj\Release\90\android\assets\Microsoft.AppCenter.Android.Bindings.dll
+C:\Users\psych\Source\Repos\RedditRss\RedditRss\RedditRss.Android\obj\Release\90\android\assets\Microsoft.AppCenter.Crashes.Android.Bindings.dll
+C:\Users\psych\Source\Repos\RedditRss\RedditRss\RedditRss.Android\obj\Release\90\android\assets\Microsoft.AppCenter.Crashes.dll
+C:\Users\psych\Source\Repos\RedditRss\RedditRss\RedditRss.Android\obj\Release\90\android\assets\Microsoft.AppCenter.dll
 C:\Users\psych\Source\Repos\RedditRss\RedditRss\RedditRss.Android\obj\Release\90\android\assets\Microsoft.DotNet.PlatformAbstractions.dll
 C:\Users\psych\Source\Repos\RedditRss\RedditRss\RedditRss.Android\obj\Release\90\android\assets\Microsoft.Extensions.DependencyModel.dll
 C:\Users\psych\Source\Repos\RedditRss\RedditRss\RedditRss.Android\obj\Release\90\android\assets\Microsoft.Extensions.PlatformAbstractions.dll
