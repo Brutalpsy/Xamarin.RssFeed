@@ -8,7 +8,35 @@
              xmlns:viewModelBase="clr-namespace:RedditRss.ViewModels.Base"
              viewModelBase:ViewModelLocator.AutoWireViewModel="True"
              >
-    <WebView x:Name="webView">
+    <!--<WebView x:Name="webView">
         
-    </WebView>
+    </WebView>-->
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Share"
+                     Command="{Binding ShareCommand}"></ToolbarItem>
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+            <StackLayout >
+                <Image x:Name="postImage" 
+                   HorizontalOptions="FillAndExpand"
+                   />
+                <StackLayout Orientation="Horizontal" 
+                             >
+                    <Label x:Name="creatorLabel"
+                       FontSize="Medium"
+                       FontAttributes="Bold"/>
+                    <Label x:Name="dateLabel"
+                       FontSize="Small"
+                       VerticalOptions="Center"
+                       TextColor="Silver"/>
+                </StackLayout>
+                <Label x:Name="descriptionLabel"/>
+                <WebView 
+                VerticalOptions="FillAndExpand" x:Name="webView">
+                    <WebView.Source>
+                        <HtmlWebViewSource Html="{Binding SelectedPost.Content.Text}" x:Name="htmlWebViewSource" />
+                    </WebView.Source>
+                </WebView>
+            </StackLayout>
+    </ContentPage.Content>
 </ContentPage>

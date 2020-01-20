@@ -1,0 +1,1 @@
+C:\Users\psych\Source\Repos\RedditRss\RedditRss\RedditRss.UWP\RedditRss.UWP.csproj;x86
