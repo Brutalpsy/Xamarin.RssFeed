@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\psych\\Source\\Repos\\RedditRss\\RedditRss\\RedditRss.iOS\\RedditRss.iOS.csproj": {}
+    "C:\\Users\\bruta\\source\\repos\\Xamarin.RssFeed\\RedditRss\\RedditRss.iOS\\RedditRss.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\psych\\Source\\Repos\\RedditRss\\RedditRss\\RedditRss.iOS\\RedditRss.iOS.csproj": {
+    "C:\\Users\\bruta\\source\\repos\\Xamarin.RssFeed\\RedditRss\\RedditRss.iOS\\RedditRss.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\psych\\Source\\Repos\\RedditRss\\RedditRss\\RedditRss.iOS\\RedditRss.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\bruta\\source\\repos\\Xamarin.RssFeed\\RedditRss\\RedditRss.iOS\\RedditRss.iOS.csproj",
         "projectName": "RedditRss.iOS",
-        "projectPath": "C:\\Users\\psych\\Source\\Repos\\RedditRss\\RedditRss\\RedditRss.iOS\\RedditRss.iOS.csproj",
-        "packagesPath": "C:\\Users\\psych\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\psych\\Source\\Repos\\RedditRss\\RedditRss\\RedditRss.iOS\\obj\\",
+        "projectPath": "C:\\Users\\bruta\\source\\repos\\Xamarin.RssFeed\\RedditRss\\RedditRss.iOS\\RedditRss.iOS.csproj",
+        "packagesPath": "C:\\Users\\bruta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bruta\\source\\repos\\Xamarin.RssFeed\\RedditRss\\RedditRss.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\psych\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bruta\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\psych\\Source\\Repos\\RedditRss\\RedditRss\\RedditRss\\RedditRss.csproj": {
-                "projectPath": "C:\\Users\\psych\\Source\\Repos\\RedditRss\\RedditRss\\RedditRss\\RedditRss.csproj"
+              "C:\\Users\\bruta\\source\\repos\\Xamarin.RssFeed\\RedditRss\\RedditRss\\RedditRss.csproj": {
+                "projectPath": "C:\\Users\\bruta\\source\\repos\\Xamarin.RssFeed\\RedditRss\\RedditRss\\RedditRss.csproj"
               }
             }
           }
@@ -73,21 +73,21 @@
         }
       }
     },
-    "C:\\Users\\psych\\Source\\Repos\\RedditRss\\RedditRss\\RedditRss\\RedditRss.csproj": {
+    "C:\\Users\\bruta\\source\\repos\\Xamarin.RssFeed\\RedditRss\\RedditRss\\RedditRss.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\psych\\Source\\Repos\\RedditRss\\RedditRss\\RedditRss\\RedditRss.csproj",
+        "projectUniqueName": "C:\\Users\\bruta\\source\\repos\\Xamarin.RssFeed\\RedditRss\\RedditRss\\RedditRss.csproj",
         "projectName": "RedditRss",
-        "projectPath": "C:\\Users\\psych\\Source\\Repos\\RedditRss\\RedditRss\\RedditRss\\RedditRss.csproj",
-        "packagesPath": "C:\\Users\\psych\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\psych\\Source\\Repos\\RedditRss\\RedditRss\\RedditRss\\obj\\",
+        "projectPath": "C:\\Users\\bruta\\source\\repos\\Xamarin.RssFeed\\RedditRss\\RedditRss\\RedditRss.csproj",
+        "packagesPath": "C:\\Users\\bruta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bruta\\source\\repos\\Xamarin.RssFeed\\RedditRss\\RedditRss\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\psych\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bruta\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -149,7 +149,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

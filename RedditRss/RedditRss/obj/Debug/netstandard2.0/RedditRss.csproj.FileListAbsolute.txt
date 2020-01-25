@@ -12,3 +12,17 @@ C:\Users\psych\Source\Repos\RedditRss\RedditRss\RedditRss\obj\Debug\netstandard2
 C:\Users\psych\Source\Repos\RedditRss\RedditRss\RedditRss\obj\Debug\netstandard2.0\RedditRss.dll
 C:\Users\psych\Source\Repos\RedditRss\RedditRss\RedditRss\obj\Debug\netstandard2.0\ref\RedditRss.dll
 C:\Users\psych\Source\Repos\RedditRss\RedditRss\RedditRss\obj\Debug\netstandard2.0\RedditRss.pdb
+C:\Users\bruta\source\repos\Xamarin.RssFeed\RedditRss\RedditRss\bin\Debug\netstandard2.0\RedditRss.deps.json
+C:\Users\bruta\source\repos\Xamarin.RssFeed\RedditRss\RedditRss\bin\Debug\netstandard2.0\RedditRss.dll
+C:\Users\bruta\source\repos\Xamarin.RssFeed\RedditRss\RedditRss\bin\Debug\netstandard2.0\ref\RedditRss.dll
+C:\Users\bruta\source\repos\Xamarin.RssFeed\RedditRss\RedditRss\bin\Debug\netstandard2.0\RedditRss.pdb
+C:\Users\bruta\source\repos\Xamarin.RssFeed\RedditRss\RedditRss\obj\Debug\netstandard2.0\RedditRss.csprojAssemblyReference.cache
+C:\Users\bruta\source\repos\Xamarin.RssFeed\RedditRss\RedditRss\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\bruta\source\repos\Xamarin.RssFeed\RedditRss\RedditRss\obj\Debug\netstandard2.0\Views\MainView.xaml.g.cs
+C:\Users\bruta\source\repos\Xamarin.RssFeed\RedditRss\RedditRss\obj\Debug\netstandard2.0\Views\PostView.xaml.g.cs
+C:\Users\bruta\source\repos\Xamarin.RssFeed\RedditRss\RedditRss\obj\Debug\netstandard2.0\RedditRss.AssemblyInfoInputs.cache
+C:\Users\bruta\source\repos\Xamarin.RssFeed\RedditRss\RedditRss\obj\Debug\netstandard2.0\RedditRss.AssemblyInfo.cs
+C:\Users\bruta\source\repos\Xamarin.RssFeed\RedditRss\RedditRss\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\bruta\source\repos\Xamarin.RssFeed\RedditRss\RedditRss\obj\Debug\netstandard2.0\RedditRss.dll
+C:\Users\bruta\source\repos\Xamarin.RssFeed\RedditRss\RedditRss\obj\Debug\netstandard2.0\ref\RedditRss.dll
+C:\Users\bruta\source\repos\Xamarin.RssFeed\RedditRss\RedditRss\obj\Debug\netstandard2.0\RedditRss.pdb
