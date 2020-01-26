@@ -35,6 +35,18 @@
           "lib/netstandard1.0/Microsoft.AppCenter.Crashes.dll": {}
         }
       },
+      "Microsoft.AppCenter.Push/1.6.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AppCenter": "1.6.0"
+        },
+        "compile": {
+          "lib/netstandard1.0/Microsoft.AppCenter.Push.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.0/Microsoft.AppCenter.Push.dll": {}
+        }
+      },
       "Microsoft.CSharp/4.0.1": {
         "type": "package",
         "dependencies": {
@@ -1110,6 +1122,24 @@
         "lib/uap10.0/Microsoft.AppCenter.Crashes.xml",
         "microsoft.appcenter.crashes.2.6.4.nupkg.sha512",
         "microsoft.appcenter.crashes.nuspec"
+      ]
+    },
+    "Microsoft.AppCenter.Push/1.6.0": {
+      "sha512": "ddtO4vb4NsKC5j8oPuGuPujDe4zMe6sMIZMCGHuzqqA+Bu0LViZwsnIBuvQkyUhOFc187TLkO/9tDHEC+7cJPg==",
+      "type": "package",
+      "path": "microsoft.appcenter.push/1.6.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/MonoAndroid403/Microsoft.AppCenter.Push.Android.Bindings.dll",
+        "lib/MonoAndroid403/Microsoft.AppCenter.Push.dll",
+        "lib/Xamarin.iOS10/Microsoft.AppCenter.Push.dll",
+        "lib/Xamarin.iOS10/Microsoft.AppCenter.Push.iOS.Bindings.dll",
+        "lib/netstandard1.0/Microsoft.AppCenter.Push.dll",
+        "lib/portable-net45+win8+wpa81+wp8/Microsoft.AppCenter.Push.dll",
+        "lib/uap10.0/Microsoft.AppCenter.Push.dll",
+        "microsoft.appcenter.push.1.6.0.nupkg.sha512",
+        "microsoft.appcenter.push.nuspec"
       ]
     },
     "Microsoft.CSharp/4.0.1": {
@@ -4594,6 +4624,7 @@
     ".NETStandard,Version=v2.0": [
       "Microsoft.AppCenter.Analytics >= 2.6.4",
       "Microsoft.AppCenter.Crashes >= 2.6.4",
+      "Microsoft.AppCenter.Push >= 1.6.0",
       "NETStandard.Library >= 2.0.3",
       "Nancy >= 2.0.0",
       "Xamarin.Essentials >= 1.2.0",
@@ -4601,25 +4632,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\psych\\.nuget\\packages\\": {},
+    "C:\\Users\\bruta\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\psych\\Source\\Repos\\RedditRss\\RedditRss\\RedditRss\\RedditRss.csproj",
+      "projectUniqueName": "C:\\Users\\bruta\\source\\repos\\Xamarin.RssFeed\\RedditRss\\RedditRss\\RedditRss.csproj",
       "projectName": "RedditRss",
-      "projectPath": "C:\\Users\\psych\\Source\\Repos\\RedditRss\\RedditRss\\RedditRss\\RedditRss.csproj",
-      "packagesPath": "C:\\Users\\psych\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\psych\\Source\\Repos\\RedditRss\\RedditRss\\RedditRss\\obj\\",
+      "projectPath": "C:\\Users\\bruta\\source\\repos\\Xamarin.RssFeed\\RedditRss\\RedditRss\\RedditRss.csproj",
+      "packagesPath": "C:\\Users\\bruta\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\bruta\\source\\repos\\Xamarin.RssFeed\\RedditRss\\RedditRss\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\psych\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\bruta\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -4652,6 +4683,10 @@
             "target": "Package",
             "version": "[2.6.4, )"
           },
+          "Microsoft.AppCenter.Push": {
+            "target": "Package",
+            "version": "[1.6.0, )"
+          },
           "NETStandard.Library": {
             "suppressParent": "All",
             "target": "Package",
@@ -4681,7 +4716,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -41,6 +41,18 @@
           "lib/uap10.0/Microsoft.AppCenter.Crashes.dll": {}
         }
       },
+      "Microsoft.AppCenter.Push/1.6.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AppCenter": "1.6.0"
+        },
+        "compile": {
+          "lib/uap10.0/Microsoft.AppCenter.Push.dll": {}
+        },
+        "runtime": {
+          "lib/uap10.0/Microsoft.AppCenter.Push.dll": {}
+        }
+      },
       "Microsoft.DotNet.PlatformAbstractions/2.0.4": {
         "type": "package",
         "dependencies": {
@@ -1386,6 +1398,7 @@
         "dependencies": {
           "Microsoft.AppCenter.Analytics": "2.6.4",
           "Microsoft.AppCenter.Crashes": "2.6.4",
+          "Microsoft.AppCenter.Push": "1.6.0",
           "Nancy": "2.0.0",
           "Xamarin.Essentials": "1.2.0",
           "Xamarin.Forms": "4.2.0.709249"
@@ -1436,6 +1449,18 @@
         },
         "runtime": {
           "lib/uap10.0/Microsoft.AppCenter.Crashes.dll": {}
+        }
+      },
+      "Microsoft.AppCenter.Push/1.6.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AppCenter": "1.6.0"
+        },
+        "compile": {
+          "lib/uap10.0/Microsoft.AppCenter.Push.dll": {}
+        },
+        "runtime": {
+          "lib/uap10.0/Microsoft.AppCenter.Push.dll": {}
         }
       },
       "Microsoft.DotNet.PlatformAbstractions/2.0.4": {
@@ -3167,6 +3192,7 @@
         "dependencies": {
           "Microsoft.AppCenter.Analytics": "2.6.4",
           "Microsoft.AppCenter.Crashes": "2.6.4",
+          "Microsoft.AppCenter.Push": "1.6.0",
           "Nancy": "2.0.0",
           "Xamarin.Essentials": "1.2.0",
           "Xamarin.Forms": "4.2.0.709249"
@@ -3217,6 +3243,18 @@
         },
         "runtime": {
           "lib/uap10.0/Microsoft.AppCenter.Crashes.dll": {}
+        }
+      },
+      "Microsoft.AppCenter.Push/1.6.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AppCenter": "1.6.0"
+        },
+        "compile": {
+          "lib/uap10.0/Microsoft.AppCenter.Push.dll": {}
+        },
+        "runtime": {
+          "lib/uap10.0/Microsoft.AppCenter.Push.dll": {}
         }
       },
       "Microsoft.DotNet.PlatformAbstractions/2.0.4": {
@@ -4991,6 +5029,7 @@
         "dependencies": {
           "Microsoft.AppCenter.Analytics": "2.6.4",
           "Microsoft.AppCenter.Crashes": "2.6.4",
+          "Microsoft.AppCenter.Push": "1.6.0",
           "Nancy": "2.0.0",
           "Xamarin.Essentials": "1.2.0",
           "Xamarin.Forms": "4.2.0.709249"
@@ -5041,6 +5080,18 @@
         },
         "runtime": {
           "lib/uap10.0/Microsoft.AppCenter.Crashes.dll": {}
+        }
+      },
+      "Microsoft.AppCenter.Push/1.6.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AppCenter": "1.6.0"
+        },
+        "compile": {
+          "lib/uap10.0/Microsoft.AppCenter.Push.dll": {}
+        },
+        "runtime": {
+          "lib/uap10.0/Microsoft.AppCenter.Push.dll": {}
         }
       },
       "Microsoft.DotNet.PlatformAbstractions/2.0.4": {
@@ -6591,6 +6642,7 @@
         "dependencies": {
           "Microsoft.AppCenter.Analytics": "2.6.4",
           "Microsoft.AppCenter.Crashes": "2.6.4",
+          "Microsoft.AppCenter.Push": "1.6.0",
           "Nancy": "2.0.0",
           "Xamarin.Essentials": "1.2.0",
           "Xamarin.Forms": "4.2.0.709249"
@@ -6641,6 +6693,18 @@
         },
         "runtime": {
           "lib/uap10.0/Microsoft.AppCenter.Crashes.dll": {}
+        }
+      },
+      "Microsoft.AppCenter.Push/1.6.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AppCenter": "1.6.0"
+        },
+        "compile": {
+          "lib/uap10.0/Microsoft.AppCenter.Push.dll": {}
+        },
+        "runtime": {
+          "lib/uap10.0/Microsoft.AppCenter.Push.dll": {}
         }
       },
       "Microsoft.DotNet.PlatformAbstractions/2.0.4": {
@@ -8372,6 +8436,7 @@
         "dependencies": {
           "Microsoft.AppCenter.Analytics": "2.6.4",
           "Microsoft.AppCenter.Crashes": "2.6.4",
+          "Microsoft.AppCenter.Push": "1.6.0",
           "Nancy": "2.0.0",
           "Xamarin.Essentials": "1.2.0",
           "Xamarin.Forms": "4.2.0.709249"
@@ -8422,6 +8487,18 @@
         },
         "runtime": {
           "lib/uap10.0/Microsoft.AppCenter.Crashes.dll": {}
+        }
+      },
+      "Microsoft.AppCenter.Push/1.6.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AppCenter": "1.6.0"
+        },
+        "compile": {
+          "lib/uap10.0/Microsoft.AppCenter.Push.dll": {}
+        },
+        "runtime": {
+          "lib/uap10.0/Microsoft.AppCenter.Push.dll": {}
         }
       },
       "Microsoft.DotNet.PlatformAbstractions/2.0.4": {
@@ -10196,6 +10273,7 @@
         "dependencies": {
           "Microsoft.AppCenter.Analytics": "2.6.4",
           "Microsoft.AppCenter.Crashes": "2.6.4",
+          "Microsoft.AppCenter.Push": "1.6.0",
           "Nancy": "2.0.0",
           "Xamarin.Essentials": "1.2.0",
           "Xamarin.Forms": "4.2.0.709249"
@@ -10246,6 +10324,18 @@
         },
         "runtime": {
           "lib/uap10.0/Microsoft.AppCenter.Crashes.dll": {}
+        }
+      },
+      "Microsoft.AppCenter.Push/1.6.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AppCenter": "1.6.0"
+        },
+        "compile": {
+          "lib/uap10.0/Microsoft.AppCenter.Push.dll": {}
+        },
+        "runtime": {
+          "lib/uap10.0/Microsoft.AppCenter.Push.dll": {}
         }
       },
       "Microsoft.DotNet.PlatformAbstractions/2.0.4": {
@@ -11977,6 +12067,7 @@
         "dependencies": {
           "Microsoft.AppCenter.Analytics": "2.6.4",
           "Microsoft.AppCenter.Crashes": "2.6.4",
+          "Microsoft.AppCenter.Push": "1.6.0",
           "Nancy": "2.0.0",
           "Xamarin.Essentials": "1.2.0",
           "Xamarin.Forms": "4.2.0.709249"
@@ -12027,6 +12118,18 @@
         },
         "runtime": {
           "lib/uap10.0/Microsoft.AppCenter.Crashes.dll": {}
+        }
+      },
+      "Microsoft.AppCenter.Push/1.6.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AppCenter": "1.6.0"
+        },
+        "compile": {
+          "lib/uap10.0/Microsoft.AppCenter.Push.dll": {}
+        },
+        "runtime": {
+          "lib/uap10.0/Microsoft.AppCenter.Push.dll": {}
         }
       },
       "Microsoft.DotNet.PlatformAbstractions/2.0.4": {
@@ -13801,6 +13904,7 @@
         "dependencies": {
           "Microsoft.AppCenter.Analytics": "2.6.4",
           "Microsoft.AppCenter.Crashes": "2.6.4",
+          "Microsoft.AppCenter.Push": "1.6.0",
           "Nancy": "2.0.0",
           "Xamarin.Essentials": "1.2.0",
           "Xamarin.Forms": "4.2.0.709249"
@@ -13888,6 +13992,24 @@
         "lib/uap10.0/Microsoft.AppCenter.Crashes.xml",
         "microsoft.appcenter.crashes.2.6.4.nupkg.sha512",
         "microsoft.appcenter.crashes.nuspec"
+      ]
+    },
+    "Microsoft.AppCenter.Push/1.6.0": {
+      "sha512": "ddtO4vb4NsKC5j8oPuGuPujDe4zMe6sMIZMCGHuzqqA+Bu0LViZwsnIBuvQkyUhOFc187TLkO/9tDHEC+7cJPg==",
+      "type": "package",
+      "path": "microsoft.appcenter.push/1.6.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/MonoAndroid403/Microsoft.AppCenter.Push.Android.Bindings.dll",
+        "lib/MonoAndroid403/Microsoft.AppCenter.Push.dll",
+        "lib/Xamarin.iOS10/Microsoft.AppCenter.Push.dll",
+        "lib/Xamarin.iOS10/Microsoft.AppCenter.Push.iOS.Bindings.dll",
+        "lib/netstandard1.0/Microsoft.AppCenter.Push.dll",
+        "lib/portable-net45+win8+wpa81+wp8/Microsoft.AppCenter.Push.dll",
+        "lib/uap10.0/Microsoft.AppCenter.Push.dll",
+        "microsoft.appcenter.push.1.6.0.nupkg.sha512",
+        "microsoft.appcenter.push.nuspec"
       ]
     },
     "Microsoft.DotNet.PlatformAbstractions/2.0.4": {
@@ -20079,11 +20201,12 @@
       ]
     },
     "System.Reflection.Emit.Lightweight/4.0.1": {
-      "sha512": "sSzHHXueZ5Uh0OLpUQprhr+ZYJrLPA2Cmr4gn0wj9+FftNKXx8RIMKvO9qnjk2ebPYUjZ+F2ulGdPOsvj+MEjA==",
+      "sha512": "VChj+ghaMXBbCylLZHRMEWF6CYvq5NVmS+tTGJFI0ZJGyaES3jDy1ZfgiIBppBTyrtjpSis2kpSoGyS5kbwhSQ==",
       "type": "package",
       "path": "system.reflection.emit.lightweight/4.0.1",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/net45/_._",
@@ -21760,6 +21883,7 @@
     "UAP,Version=v10.0.16299": [
       "Microsoft.AppCenter.Analytics >= 2.6.4",
       "Microsoft.AppCenter.Crashes >= 2.6.4",
+      "Microsoft.AppCenter.Push >= 1.6.0",
       "Microsoft.NETCore.UniversalWindowsPlatform >= 6.1.9",
       "RedditRss >= 1.0.0",
       "Xamarin.Essentials >= 1.2.0",
@@ -21767,18 +21891,18 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\psych\\.nuget\\packages\\": {},
+    "C:\\Users\\bruta\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\psych\\Source\\Repos\\RedditRss\\RedditRss\\RedditRss.UWP\\RedditRss.UWP.csproj",
+      "projectUniqueName": "C:\\Users\\bruta\\source\\repos\\Xamarin.RssFeed\\RedditRss\\RedditRss.UWP\\RedditRss.UWP.csproj",
       "projectName": "RedditRss.UWP",
-      "projectPath": "C:\\Users\\psych\\Source\\Repos\\RedditRss\\RedditRss\\RedditRss.UWP\\RedditRss.UWP.csproj",
-      "packagesPath": "C:\\Users\\psych\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\psych\\Source\\Repos\\RedditRss\\RedditRss\\RedditRss.UWP\\obj\\",
+      "projectPath": "C:\\Users\\bruta\\source\\repos\\Xamarin.RssFeed\\RedditRss\\RedditRss.UWP\\RedditRss.UWP.csproj",
+      "packagesPath": "C:\\Users\\bruta\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\bruta\\source\\repos\\Xamarin.RssFeed\\RedditRss\\RedditRss.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -21786,7 +21910,7 @@
         "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\psych\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\bruta\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -21800,8 +21924,8 @@
       "frameworks": {
         "uap10.0.16299": {
           "projectReferences": {
-            "C:\\Users\\psych\\Source\\Repos\\RedditRss\\RedditRss\\RedditRss\\RedditRss.csproj": {
-              "projectPath": "C:\\Users\\psych\\Source\\Repos\\RedditRss\\RedditRss\\RedditRss\\RedditRss.csproj"
+            "C:\\Users\\bruta\\source\\repos\\Xamarin.RssFeed\\RedditRss\\RedditRss\\RedditRss.csproj": {
+              "projectPath": "C:\\Users\\bruta\\source\\repos\\Xamarin.RssFeed\\RedditRss\\RedditRss\\RedditRss.csproj"
             }
           }
         }
@@ -21817,6 +21941,10 @@
           "Microsoft.AppCenter.Crashes": {
             "target": "Package",
             "version": "[2.6.4, )"
+          },
+          "Microsoft.AppCenter.Push": {
+            "target": "Package",
+            "version": "[1.6.0, )"
           },
           "Microsoft.NETCore.UniversalWindowsPlatform": {
             "target": "Package",

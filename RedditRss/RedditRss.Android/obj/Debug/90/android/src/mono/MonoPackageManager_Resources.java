@@ -10,6 +10,8 @@ public class MonoPackageManager_Resources {
 		"Microsoft.AppCenter.Crashes.Android.Bindings.dll",
 		"Microsoft.AppCenter.Crashes.dll",
 		"Microsoft.AppCenter.dll",
+		"Microsoft.AppCenter.Push.Android.Bindings.dll",
+		"Microsoft.AppCenter.Push.dll",
 		"Microsoft.DotNet.PlatformAbstractions.dll",
 		"Microsoft.Extensions.DependencyModel.dll",
 		"Microsoft.Extensions.PlatformAbstractions.dll",
