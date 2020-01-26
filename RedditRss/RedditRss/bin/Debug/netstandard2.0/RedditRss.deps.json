@@ -11,6 +11,7 @@
         "dependencies": {
           "Microsoft.AppCenter.Analytics": "2.6.4",
           "Microsoft.AppCenter.Crashes": "2.6.4",
+          "Microsoft.AppCenter.Push": "1.6.0",
           "NETStandard.Library": "2.0.3",
           "Nancy": "2.0.0",
           "Xamarin.Essentials": "1.2.0",
@@ -47,6 +48,17 @@
           "lib/netstandard1.0/Microsoft.AppCenter.Crashes.dll": {
             "assemblyVersion": "0.0.0.0",
             "fileVersion": "2.6.4.0"
+          }
+        }
+      },
+      "Microsoft.AppCenter.Push/1.6.0": {
+        "dependencies": {
+          "Microsoft.AppCenter": "2.6.4"
+        },
+        "runtime": {
+          "lib/netstandard1.0/Microsoft.AppCenter.Push.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "1.6.0.0"
           }
         }
       },
@@ -874,6 +886,13 @@
       "sha512": "sha512-JngVtWPTWrvk237QJL3L1OHDWpxZhO44hgMHMyYOYEJmmvpzy8Qg/weyGCVdZ4Dsg0cyULeQyMhAtm4arX3nyw==",
       "path": "microsoft.appcenter.crashes/2.6.4",
       "hashPath": "microsoft.appcenter.crashes.2.6.4.nupkg.sha512"
+    },
+    "Microsoft.AppCenter.Push/1.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ddtO4vb4NsKC5j8oPuGuPujDe4zMe6sMIZMCGHuzqqA+Bu0LViZwsnIBuvQkyUhOFc187TLkO/9tDHEC+7cJPg==",
+      "path": "microsoft.appcenter.push/1.6.0",
+      "hashPath": "microsoft.appcenter.push.1.6.0.nupkg.sha512"
     },
     "Microsoft.CSharp/4.0.1": {
       "type": "package",

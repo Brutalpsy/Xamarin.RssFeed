@@ -41,6 +41,20 @@
           "lib/Xamarin.iOS10/Microsoft.AppCenter.Crashes.iOS.Bindings.dll": {}
         }
       },
+      "Microsoft.AppCenter.Push/1.6.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AppCenter": "1.6.0"
+        },
+        "compile": {
+          "lib/Xamarin.iOS10/Microsoft.AppCenter.Push.dll": {},
+          "lib/Xamarin.iOS10/Microsoft.AppCenter.Push.iOS.Bindings.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/Microsoft.AppCenter.Push.dll": {},
+          "lib/Xamarin.iOS10/Microsoft.AppCenter.Push.iOS.Bindings.dll": {}
+        }
+      },
       "Microsoft.DotNet.PlatformAbstractions/2.0.4": {
         "type": "package",
         "dependencies": {
@@ -433,6 +447,7 @@
         "dependencies": {
           "Microsoft.AppCenter.Analytics": "2.6.4",
           "Microsoft.AppCenter.Crashes": "2.6.4",
+          "Microsoft.AppCenter.Push": "1.6.0",
           "Nancy": "2.0.0",
           "Xamarin.Essentials": "1.2.0",
           "Xamarin.Forms": "4.2.0.709249"
@@ -483,6 +498,20 @@
         "runtime": {
           "lib/Xamarin.iOS10/Microsoft.AppCenter.Crashes.dll": {},
           "lib/Xamarin.iOS10/Microsoft.AppCenter.Crashes.iOS.Bindings.dll": {}
+        }
+      },
+      "Microsoft.AppCenter.Push/1.6.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AppCenter": "1.6.0"
+        },
+        "compile": {
+          "lib/Xamarin.iOS10/Microsoft.AppCenter.Push.dll": {},
+          "lib/Xamarin.iOS10/Microsoft.AppCenter.Push.iOS.Bindings.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/Microsoft.AppCenter.Push.dll": {},
+          "lib/Xamarin.iOS10/Microsoft.AppCenter.Push.iOS.Bindings.dll": {}
         }
       },
       "Microsoft.DotNet.PlatformAbstractions/2.0.4": {
@@ -857,6 +886,7 @@
         "dependencies": {
           "Microsoft.AppCenter.Analytics": "2.6.4",
           "Microsoft.AppCenter.Crashes": "2.6.4",
+          "Microsoft.AppCenter.Push": "1.6.0",
           "Nancy": "2.0.0",
           "Xamarin.Essentials": "1.2.0",
           "Xamarin.Forms": "4.2.0.709249"
@@ -909,6 +939,20 @@
           "lib/Xamarin.iOS10/Microsoft.AppCenter.Crashes.iOS.Bindings.dll": {}
         }
       },
+      "Microsoft.AppCenter.Push/1.6.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AppCenter": "1.6.0"
+        },
+        "compile": {
+          "lib/Xamarin.iOS10/Microsoft.AppCenter.Push.dll": {},
+          "lib/Xamarin.iOS10/Microsoft.AppCenter.Push.iOS.Bindings.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/Microsoft.AppCenter.Push.dll": {},
+          "lib/Xamarin.iOS10/Microsoft.AppCenter.Push.iOS.Bindings.dll": {}
+        }
+      },
       "Microsoft.DotNet.PlatformAbstractions/2.0.4": {
         "type": "package",
         "dependencies": {
@@ -1281,6 +1325,7 @@
         "dependencies": {
           "Microsoft.AppCenter.Analytics": "2.6.4",
           "Microsoft.AppCenter.Crashes": "2.6.4",
+          "Microsoft.AppCenter.Push": "1.6.0",
           "Nancy": "2.0.0",
           "Xamarin.Essentials": "1.2.0",
           "Xamarin.Forms": "4.2.0.709249"
@@ -1333,6 +1378,20 @@
           "lib/Xamarin.iOS10/Microsoft.AppCenter.Crashes.iOS.Bindings.dll": {}
         }
       },
+      "Microsoft.AppCenter.Push/1.6.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AppCenter": "1.6.0"
+        },
+        "compile": {
+          "lib/Xamarin.iOS10/Microsoft.AppCenter.Push.dll": {},
+          "lib/Xamarin.iOS10/Microsoft.AppCenter.Push.iOS.Bindings.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/Microsoft.AppCenter.Push.dll": {},
+          "lib/Xamarin.iOS10/Microsoft.AppCenter.Push.iOS.Bindings.dll": {}
+        }
+      },
       "Microsoft.DotNet.PlatformAbstractions/2.0.4": {
         "type": "package",
         "dependencies": {
@@ -1705,6 +1764,7 @@
         "dependencies": {
           "Microsoft.AppCenter.Analytics": "2.6.4",
           "Microsoft.AppCenter.Crashes": "2.6.4",
+          "Microsoft.AppCenter.Push": "1.6.0",
           "Nancy": "2.0.0",
           "Xamarin.Essentials": "1.2.0",
           "Xamarin.Forms": "4.2.0.709249"
@@ -1792,6 +1852,24 @@
         "lib/uap10.0/Microsoft.AppCenter.Crashes.xml",
         "microsoft.appcenter.crashes.2.6.4.nupkg.sha512",
         "microsoft.appcenter.crashes.nuspec"
+      ]
+    },
+    "Microsoft.AppCenter.Push/1.6.0": {
+      "sha512": "ddtO4vb4NsKC5j8oPuGuPujDe4zMe6sMIZMCGHuzqqA+Bu0LViZwsnIBuvQkyUhOFc187TLkO/9tDHEC+7cJPg==",
+      "type": "package",
+      "path": "microsoft.appcenter.push/1.6.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/MonoAndroid403/Microsoft.AppCenter.Push.Android.Bindings.dll",
+        "lib/MonoAndroid403/Microsoft.AppCenter.Push.dll",
+        "lib/Xamarin.iOS10/Microsoft.AppCenter.Push.dll",
+        "lib/Xamarin.iOS10/Microsoft.AppCenter.Push.iOS.Bindings.dll",
+        "lib/netstandard1.0/Microsoft.AppCenter.Push.dll",
+        "lib/portable-net45+win8+wpa81+wp8/Microsoft.AppCenter.Push.dll",
+        "lib/uap10.0/Microsoft.AppCenter.Push.dll",
+        "microsoft.appcenter.push.1.6.0.nupkg.sha512",
+        "microsoft.appcenter.push.nuspec"
       ]
     },
     "Microsoft.DotNet.PlatformAbstractions/2.0.4": {
@@ -3167,6 +3245,7 @@
     "Xamarin.iOS,Version=v1.0": [
       "Microsoft.AppCenter.Analytics >= 2.6.4",
       "Microsoft.AppCenter.Crashes >= 2.6.4",
+      "Microsoft.AppCenter.Push >= 1.6.0",
       "RedditRss >= 1.0.0",
       "Xamarin.Essentials >= 1.2.0",
       "Xamarin.Forms >= 4.2.0.709249"
@@ -3221,6 +3300,10 @@
           "Microsoft.AppCenter.Crashes": {
             "target": "Package",
             "version": "[2.6.4, )"
+          },
+          "Microsoft.AppCenter.Push": {
+            "target": "Package",
+            "version": "[1.6.0, )"
           },
           "Xamarin.Essentials": {
             "target": "Package",

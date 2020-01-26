@@ -51,6 +51,10 @@
               "target": "Package",
               "version": "[2.6.4, )"
             },
+            "Microsoft.AppCenter.Push": {
+              "target": "Package",
+              "version": "[1.6.0, )"
+            },
             "Microsoft.NETCore.UniversalWindowsPlatform": {
               "target": "Package",
               "version": "[6.1.9, )"
@@ -141,6 +145,10 @@
             "Microsoft.AppCenter.Crashes": {
               "target": "Package",
               "version": "[2.6.4, )"
+            },
+            "Microsoft.AppCenter.Push": {
+              "target": "Package",
+              "version": "[1.6.0, )"
             },
             "NETStandard.Library": {
               "suppressParent": "All",

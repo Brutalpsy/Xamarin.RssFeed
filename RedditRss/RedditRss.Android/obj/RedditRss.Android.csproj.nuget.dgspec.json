@@ -50,6 +50,10 @@
               "target": "Package",
               "version": "[2.6.4, )"
             },
+            "Microsoft.AppCenter.Push": {
+              "target": "Package",
+              "version": "[1.6.0, )"
+            },
             "Xamarin.Android.Support.Core.Utils": {
               "target": "Package",
               "version": "[28.0.0.1, )"
@@ -112,6 +116,10 @@
             "Microsoft.AppCenter.Crashes": {
               "target": "Package",
               "version": "[2.6.4, )"
+            },
+            "Microsoft.AppCenter.Push": {
+              "target": "Package",
+              "version": "[1.6.0, )"
             },
             "NETStandard.Library": {
               "suppressParent": "All",
