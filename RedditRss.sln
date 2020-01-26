@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedditRss.Android", "Reddit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedditRss.iOS", "RedditRss\RedditRss.iOS\RedditRss.iOS.csproj", "{54FC675D-192A-4306-A45A-46C88289EC4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedditRss", "RedditRss\RedditRss\RedditRss.csproj", "{DB9708B8-0F34-4995-8CF5-6954CB8446BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RedditRss", "RedditRss\RedditRss\RedditRss.csproj", "{DB9708B8-0F34-4995-8CF5-6954CB8446BE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
